@@ -6,7 +6,6 @@ const url = document.querySelector("#url");
 
 const data = [
   {
-    name: "sandip",
     email: "sandip@gmail.com",
     img: "https://plus.unsplash.com/premium_vector-1728553012443-3cf619e7579d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fHww",
   },
