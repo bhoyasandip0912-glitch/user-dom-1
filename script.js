@@ -56,7 +56,7 @@ form.addEventListener("submit", (event) => {
   if (name.trim() === "" && email.trim() === "" && imageurl.trim() === "")
     return;
 
-  data.push({
+  data.unshift({
     name: name,
     email: email,
     img: imageurl,
